@@ -9,7 +9,7 @@
   "author": "Mapbox",
   "license": "ISC",
   "dependencies": {
-    "gdal",
+    "gdal": "0.11.1",
     "yargs": "^4.8.1"
   },
   "bin": {
